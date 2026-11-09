@@ -1,0 +1,6 @@
+# Spotify dataset
+dataset.csv
+
+# Python temporary files
+__pycache__/
+.ipynb_checkpoints/
